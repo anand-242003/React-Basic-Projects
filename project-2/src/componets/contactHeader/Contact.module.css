@@ -1,0 +1,17 @@
+.header {
+    position: absolute;
+    left: 188px;   
+    top: 143px;     
+    font-weight: 800;
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .content{
+    position: absolute;
+    left: 188px;
+    top: 220px;
+    width: 975px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    gap: 72px;
+  }

@@ -1,0 +1,19 @@
+.navigation{
+display: flex;
+    justify-content: space-between;
+    max-width: 1440px;
+height: 72px;
+
+}
+.navigation ul{
+    position: absolute;
+    left: 1128px;
+    right: 24px;
+    display: flex;
+    list-style: none;
+    width: 231px;
+    height: 24px;
+    gap: 24px;
+font-weight: 600;
+
+} 
